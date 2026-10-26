@@ -1,0 +1,77 @@
+WALLPAPER ENGINE CONFIG
+=======================
+
+Que trae
+--------
+- imagenes\   Capturas de las opciones de Wallpaper Engine para que gaste lo menos
+              posible mientras jugas, sin dejar de verse bien.
+
+
+Donde se cambia
+---------------
+- Abri Wallpaper Engine y toca el engranaje de arriba a la derecha (Configuracion).
+- Copia las opciones de las capturas, pestana por pestana.
+
+
+RENDIMIENTO (rendimiento1.png)
+------------------------------
+- Otra aplicacion maximizada: Pausar por monitor
+- Otra aplicacion en pantalla completa: Pausar por monitor
+- Otra aplicacion reproduciendo audio: Seguir ejecutandose
+- Monitor en suspension: Detener (liberar memoria)
+- Calidad
+    Fotogramas/s: 30
+    Anti-aliasing: MSAA x2
+    Post-procesado: Desactivado
+    Resolucion de texturas: Automatica
+    Sombras: Desactivado
+    Iluminacion volumetrica: Desactivado
+    Reflejos: desmarcado
+
+
+GENERAL
+-------
+Monitores y fondo (general2.png)
+- Identificacion de monitor: Gestionada
+- Aviso para desactivar la presentacion de Windows: marcado
+- Quitar presentacion de fondos de Windows: marcado
+- Reanudar durante Aero Peek: marcado
+- Reemplazar imagen de fondo y de pantalla de bloqueo: marcado
+- Compatibilidad de integracion multimedia: marcado
+
+Apariencia (general2.png)
+- Usar temas estacionales: desmarcado
+- Aceleracion de hardware de IU: desmarcado
+- Calidad de IU: Baja: Quitar efectos
+
+Video (general1.png)
+- Plataforma de video preferida: Scene DX11 (HDR Support)
+- Aceleracion de hardware de video: marcado
+- Carga de video: En memoria
+- Repeticion de video: Predeterminado
+- Plataforma WebM preferida: Chromium
+
+Avanzado (general1.png)
+- Prioridad del proceso: Debajo de lo normal
+- Pausar cuando se agote la VRAM: marcado
+- Ocultar las demas aplicaciones en mono mini: desmarcado
+- Usar temporizadores de alta precision: desmarcado
+- Reiniciar tras colgarse: marcado
+
+Inicio automatico (general3.png)
+- Iniciar con Windows: con Prioridad alta (el boton tiene que decir "Quitar Prioridad alta")
+- Proteccion ante los cuelgues: desmarcado
+- Inicio seguro despues de la hibernacion: desmarcado
+
+
+Para tener en cuenta
+--------------------
+- "Pausar por monitor" frena el fondo solo en la pantalla donde tenes el juego
+  (tambien en ventana sin bordes), asi no gasta GPU mientras jugas.
+- "Debajo de lo normal" hace que Windows le de prioridad a tus juegos antes
+  que al fondo de pantalla.
+
+Creditos
+--------
+Hecho por 011Xuca
+Redes: https://linktr.ee/011xuca
